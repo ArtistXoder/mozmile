@@ -22,4 +22,4 @@ one more thing is I suggest at least a 32gb sd card. And you can use ethernet bu
 1) type -I 
 2) than connect with what ever terminal your using  the command ssh pi@yourip 
 3) than do the the type of the command git clone https://github.com/ArtistXoder/MinecraftServer.git
-4) after install git clone
+4) after install git on your Raspberry Pi 
