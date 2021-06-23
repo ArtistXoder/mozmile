@@ -1,5 +1,5 @@
 # MinecraftServer
-This is a Minecraft Sever setup for my Raspberry Pi 400 
+This is the Minecraft Sever setup for my Raspberry Pi 
 This is my sever setup feel free to reuse for open source projects!
 1) How to download type sudo apt-get install git 
 2) Than type cd MinecraftServer
