@@ -16,4 +16,5 @@ sudo apt install ufw
 sudo ufw enable
 sudo ufw allow 22
 sudo ufw allow 25565
-sudo reboot 
+git clone https://github.com/ArtistXoder/Minecraft.sh.git
+sudo reboot
