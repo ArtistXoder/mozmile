@@ -17,3 +17,9 @@ This is my sever setup feel free to reuse for open source projects!
 Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
 to Format the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/.
 one more thing is I suggest at least a 32gb sd card. And you can use ethernet but for this part I will just use 5gz wifi and I would suggest you use a Pi 400 or Pi 4 B with at least 4gb of ram since most won't run with out it for the Minecraft Java verison this is a local network sever but if you want to you could easily changes that.
+
+# find IP Raspberry Pi 
+1) type -I 
+2) than connect with what ever terminal your using  the command ssh pi@yourip 
+3) than do the the type of the command git clone https://github.com/ArtistXoder/MinecraftServer.git
+4) after install git clone
