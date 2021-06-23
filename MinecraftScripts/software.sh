@@ -15,6 +15,6 @@ sudo apt install ufw
 sudo ufw enable
 sudo ufw allow 22
 sudo ufw allow 25565
-git clone https://github.com/ArtistXoder/Minecraft.sh.git
+git clone https://github.com/ArtistXoder/Minecraft.git
  java -Xmx2500M -Xms2500M -jar server.jar nogui
  
