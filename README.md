@@ -14,6 +14,6 @@ This is my sever setup feel free to reuse for open source projects!
 3) type cd Minecraft.sh
 4) finally type bash run.sh
 
-# Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
-# to Formate the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/
-# one more thing is I suggest at least a 32gb sd card
+Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
+to Formate the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/
+one more thing is I suggest at least a 32gb sd card
