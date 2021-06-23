@@ -2,7 +2,6 @@
 echo "Would you like to install all the software for MinecraftSever 1.17?"
 #included software Java opendk & Minecraft Server software & clamav & ufw
 #FYI you need to accept and go into ELU and accept the agreement for the offical Minecraft Server Software
-sudo -i
 sudo apt-get update
 sudo  apt-get upgrade
 cd ~
