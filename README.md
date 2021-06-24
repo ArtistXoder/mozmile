@@ -21,8 +21,9 @@ one more thing is I suggest at least a 32gb sd card. And you can use ethernet bu
 # Find IP Raspberry Pi 
 1) type -I 
 2) than connect with what ever terminal your using  the command ssh pi@yourip 
-3) than do the the type of the command git clone https://github.com/ArtistXoder/MinecraftServer.git
-4) after install git on your Raspberry Pi 
+3) Also if you get a warning that host key failed type ssh-keygen -R yourip 
+4) than do the the type of the command git clone https://github.com/ArtistXoder/MinecraftServer.git
+5) after install git on your Raspberry Pi 
 
 # If Java Doesn't Work After Reboot 
 1) type cd MinecraftServer
@@ -37,3 +38,5 @@ their privacy policy is here https://playit.gg/privacy
 3) for the Raspberry pi the you go to download folder by going to terminal and typing cd downloads
 4) than you type ./playit-armv7-0.4.3-rc2 if you get permission deined try chmod +x playit-armv7-0.4.3-rc2 or the name of the file it if it has changed 
 it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you. The cool thing with this sevices is that it's should have free plans but I would check to make sure it doesn't violate your ISP since you don't need port forwarding and it is properity so you can't really look at the source code. Though I still questions the security aspect of it and the company. 
+
+
