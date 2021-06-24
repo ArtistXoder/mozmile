@@ -29,3 +29,8 @@ one more thing is I suggest at least a 32gb sd card. And you can use ethernet bu
 2) type cd MinecraftScripts
 3) type cd MinecraftScripts
 4) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
+
+# For Multiplayer Online 
+1) you could try beware I am not for sure about the safety of this site but I can tell you some thing cost money for a custom domain https://playit.gg 
+2) for the Raspberry pi the you go to download folder by going to terminal and typing cd downloads
+3) than you type ./playit-armv7-0.4.3-rc2 if you get permission deined try chmod +x playit-armv7-0.4.3-rc2 or the name of the file it if it has changed 
