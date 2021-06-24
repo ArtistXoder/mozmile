@@ -14,12 +14,14 @@ This is my sever setup feel free to reuse for open source projects!
 3) type cd Minecraft
 4) than create a shell script called run.sh 
 added this to the shell script for the code 
+
 #!/bin/bash
 echo "Would you like to start the Minecraft Java Sever 1.17?"
 while true;
 do
  java -Xmx2500M -Xms2500M -jar server.jar nogui
 done;
+
 6) finally type chmod +x run.sh
 7) bash run.sh
 
