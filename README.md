@@ -31,7 +31,7 @@ one more thing is I suggest at least a 32gb sd card. And you can use ethernet bu
 4) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
 
 # For Multiplayer Online 
-here is the download link https://playit.gg/download
+here is the download links https://playit.gg/download
 their privacy policy is here https://playit.gg/privacy
 
 3) for the Raspberry pi the you go to download folder by going to terminal and typing cd downloads
