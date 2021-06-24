@@ -11,7 +11,7 @@ This is my sever setup feel free to reuse for open source projects!
 # directions starting Minecraft Server 
 1) type cd MinecraftServer
 2) type cd MinecraftScripts
-3) type cd Minecraft.sh
+3) type cd Minecraft
 4) finally type bash run.sh
 
 Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
@@ -23,3 +23,9 @@ one more thing is I suggest at least a 32gb sd card. And you can use ethernet bu
 2) than connect with what ever terminal your using  the command ssh pi@yourip 
 3) than do the the type of the command git clone https://github.com/ArtistXoder/MinecraftServer.git
 4) after install git on your Raspberry Pi 
+
+# if Java doesn't work after reboot 
+1) type cd MinecraftServer
+2) type cd MinecraftScripts
+3) type cd MinecraftScripts
+4) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
