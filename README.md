@@ -12,7 +12,16 @@ This is my sever setup feel free to reuse for open source projects!
 1) type cd MinecraftServer
 2) type cd MinecraftScripts
 3) type cd Minecraft
-4) finally type bash run.sh
+4) than create a shell script called run.sh 
+added this to the shell script for the code 
+#!/bin/bash
+echo "Would you like to start the Minecraft Java Sever 1.17?"
+while true;
+do
+ java -Xmx2500M -Xms2500M -jar server.jar nogui
+done;
+6) finally type chmod +x run.sh
+7) bash run.sh
 
 Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
 to Format the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/.
