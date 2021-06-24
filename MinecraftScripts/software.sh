@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Would you like to install all the software for MinecraftSever 1.17?"
-#included software Java 16 openjdk & Minecraft Server software & clamav & ufw
+#Included Software Java 16 openjdk & Minecraft Server Software & Clamav & UFW
 #FYI you need to accept and go into ELU and accept the agreement for the offical Minecraft Server Software
 sudo apt-get update
 sudo  apt-get upgrade
@@ -18,6 +18,5 @@ sudo apt install ufw
 sudo ufw enable
 sudo ufw allow 22
 sudo ufw allow 25565
-git clone https://github.com/ArtistXoder/Minecraft.git
- java -Xmx2500M -Xms2500M -jar server.jar nogui
+java -Xmx2500M -Xms2500M -jar server.jar nogui
  
