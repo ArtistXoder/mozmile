@@ -27,7 +27,8 @@ done;
 
 Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
 to Format the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/.
-one more thing is I suggest at least a 32gb sd card. And you can use ethernet but for this part I will just use 5gz wifi and I would suggest you use a Pi 400 or Pi 4 B with at least 4gb of ram since most won't run with out it for the Minecraft Java verison this is a local network sever but if you want to you could easily changes that.
+one more thing is I suggest at least a 32gb sd card. And you can use ethernet but for this part I will just use 5gz wifi and I would suggest you use a Pi 400 or Pi 4 B with at least 4gb of ram since most won't run with out it for the Minecraft Java verison this is a local network sever but if you want to you could easily changes that. And to get the configuration open the Raspberry Pi Imager by typing it in the search bar on windows 10 than choose the Raspbian os you choose and if you want to get the setting you need open it up with SHIFT CRTLX X than fill our your settings you want WIFI ETC...
+You will need a sd card reader or sd card adapter if your PC doesn't support the sd card reader than you get the SD Card Adapter. Most Kit come with most of everything you would need.
 
 # Find IP Raspberry Pi 
 1) type -I 
