@@ -52,7 +52,8 @@ here is the download links https://playit.gg/download
 their privacy policy is here https://playit.gg/privacy 
 
 1) for the Raspberry pi the you go to download folder by going to terminal and typing cd downloads
-2) than you type ./playit-armv7-0.4.3-rc2 if you get permission deined try chmod +x playit-armv7-0.4.3-rc2 or the name of the file it if it has changed 
+2) than you type ./playit-armv7-0.4.3-rc2 if you get permission deined try chmod +x playit-armv7-0.4.3-rc2 
+3) or the name of the file it if it has changed 
 it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you. The cool thing with this sevices is that it's should have free plans but I would check to make sure it doesn't violate your ISP since you don't need port forwarding and it is properity so you can't really look at the source code. Though I still questions the security aspect of it and the company. To find your tunnel it should say the tunnel IP so your friends can join! And 
 
 # Last I made it Easy 
