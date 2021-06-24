@@ -41,5 +41,5 @@ it work like your sever connect to their sever so it's doesn't show your real IP
 
 # Last I made it Easy 
 Because I hate having to go to multiable sites for information! And I want to help new people.
-Some of these name are company's and copyrighed name I do not own these I am using these for educational use only 
+Some of these name are companies and copyrighed name I do not own these I am using these for educational use only 
 
