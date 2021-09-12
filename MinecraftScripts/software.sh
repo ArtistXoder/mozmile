@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Would you like to install all the software for MinecraftSever 1.17?"
-echo Included Software Java 16 openjdk & Minecraft Server Software & Clamav & UFW
+echo Included Software Java 16 openjdk & Minecraft
 sudo apt-get update
 sudo  apt-get upgrade
 cd ~
