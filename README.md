@@ -4,6 +4,7 @@ This is my sever setup feel free to reuse for open source projects!
 
 # Downloading 
 sudo apt-get install git
+
 git clone https://github.com/ArtistXoder/MinecraftServer.git
 
 # Directions Starting Minecraft Server 
