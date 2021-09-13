@@ -13,7 +13,7 @@ This is my sever setup feel free to reuse for open source projects!
 2) type cd MinecraftScripts
 3) type cd Minecraft
 4) than create a shell script called run.sh 
-added this to the shell script for the code 
+added this to the shell script to easily start the Minecraft Java Server
 
 #!/bin/bash
 java -Xmx2500M -Xms2500M -jar server.jar nogui
