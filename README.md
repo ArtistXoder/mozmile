@@ -1,7 +1,3 @@
-# MinecraftServer
-This is the Minecraft Sever setup for my Raspberry Pi 
-This is my sever setup feel free to reuse for open source projects!
-
 # Downloading 
 sudo apt-get install git
 
