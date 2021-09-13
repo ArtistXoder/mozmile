@@ -1,16 +1,15 @@
 # MinecraftServer
 This is the Minecraft Sever setup for my Raspberry Pi 
 This is my sever setup feel free to reuse for open source projects!
-# downloading 
-wget https://github.com/ArtistXoder/MinecraftServer.git
 
-sudo apt-get install unzip
-unzip MinecraftServer.git
+# Downloading 
+sudo apt-get install git
+git clone https://github.com/ArtistXoder/MinecraftServer.git
 
 # Directions Starting Minecraft Server 
-1) type cd MinecraftServer
-2) type cd MinecraftScripts
-3) type cd Minecraft
+1) cd MinecraftServer
+2) cd MinecraftScripts
+3) chmod +x software.sh
 4) than create a shell script called run.sh 
 added this to the shell script to easily start the Minecraft Java Server
 
@@ -28,13 +27,10 @@ to Format the sd card use the Raspberry PI image tool you can find it here at th
 1) type -I 
 2) than connect with what ever terminal your using  the command ssh pi@yourip 
 3) Also if you get a warning that host key failed type ssh-keygen -R yourip 
-4) than do the the type of the command git clone https://github.com/ArtistXoder/MinecraftServer.git
-5) after install git on your Raspberry Pi & I suggest making .txt file in notepad on Windows with your password and the Username is also Pi but if you changes it write that down
 
 # If Java Doesn't Work After Reboot 
-1) type cd Downloads
-2) typ
-5) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
+1) cd MinecraftServer
+2) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
 
 # For Multiplayer Online 
 here is the download links https://playit.gg/download
@@ -47,9 +43,3 @@ it work like your sever connect to their sever so it's doesn't show your real IP
 
 # List Of Software Installed 
 Java 16 Openjdk & Minecraft Server Software 
-
-# Last I made it Easy 
-Because I hate having to go to multiable sites for information! And I want to help new people.
-Some of these Names are Companies and Copyrighed Names I do not own these I am using these for educational use only!!!
-
-
