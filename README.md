@@ -1,12 +1,11 @@
 # MinecraftServer
 This is the Minecraft Sever setup for my Raspberry Pi 
 This is my sever setup feel free to reuse for open source projects!
-1) How to download type sudo apt-get install git 
-2) Than type cd MinecraftServer
-3) Next cd MinecraftScripts
-4) Finally bash software.sh 
-5) Next you are in the Minecraft Sever type stop 
-6) Also you have to reboot the pi by typing sudo reboot.
+# downloading 
+wget https://github.com/ArtistXoder/MinecraftServer.git
+
+sudo apt-get install unzip
+unzip MinecraftServer.git
 
 # Directions Starting Minecraft Server 
 1) type cd MinecraftServer
@@ -21,9 +20,9 @@ java -Xmx2500M -Xms2500M -jar server.jar nogui
 6) finally type chmod +x run.sh
 7) bash run.sh
 
-Last if you need to find the folder to checkout the file system type ls in the terminal. I will be using ssh and using raspbian lite with no desktop but you can use with any verison
+Last if you need to find the folder to checkout the file system type ls in the terminal. Minecraft Java requires at least 4gb of ram to run!
 to Format the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/.
-one more thing is I suggest at least a 32gb sd card. And you can use ethernet but for this part I will just use 5gz wifi and I would suggest you use a Pi 400 or Pi 4 B with at least 4gb of ram since most won't run with out it for the Minecraft Java verison this is a local network sever but if you want to you could easily changes that.
+
 
 # Find IP Raspberry Pi 
 1) type -I 
@@ -33,10 +32,9 @@ one more thing is I suggest at least a 32gb sd card. And you can use ethernet bu
 5) after install git on your Raspberry Pi & I suggest making .txt file in notepad on Windows with your password and the Username is also Pi but if you changes it write that down
 
 # If Java Doesn't Work After Reboot 
-1) type cd MinecraftServer
-2) type cd MinecraftScripts
-3) type cd MinecraftScripts
-4) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
+1) type cd Downloads
+2) typ
+5) export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
 
 # For Multiplayer Online 
 here is the download links https://playit.gg/download
@@ -45,7 +43,7 @@ their privacy policy is here https://playit.gg/privacy
 1) for the Raspberry pi the you go to download folder by going to terminal and typing cd downloads
 2) than you type ./playit-armv7-0.4.3-rc2 if you get permission deined try chmod +x playit-armv7-0.4.3-rc2 
 3) or the name of the file it if it has changed 
-it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you.
+it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you. Also it's free. 
 
 # List Of Software Installed 
 Java 16 Openjdk & Minecraft Server Software 
