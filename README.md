@@ -24,7 +24,7 @@ to Format the sd card use the Raspberry PI image tool you can find it here at th
 
 
 # Find IP Raspberry Pi 
-1) type -I 
+1) hostname -i 
 2) than connect with what ever terminal your using  the command ssh pi@yourip 
 3) Also if you get a warning that host key failed type ssh-keygen -R yourip 
 
