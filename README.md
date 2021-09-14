@@ -5,18 +5,17 @@ git clone https://github.com/ArtistXoder/MinecraftServer.git
 
 # Directions Starting Minecraft Server 
 1) cd MinecraftServer
-2) cd MinecraftScripts
-3) chmod +x software.sh
-4) than create a shell script called run.sh 
+2) chmod +x software.sh
+3) than create a shell script called run.sh 
 
-5) added this to the shell script to easily start the Minecraft Java Server
+4) added this to the shell script to easily start the Minecraft Java Server
 
    #!/bin/bash
 
    java -Xmx2500M -Xms2500M -jar server.jar nogui
 
-6) finally type chmod +x run.sh
-7) bash run.sh
+5) finally type chmod +x run.sh
+6) bash run.sh
 
 Last if you need to find the folder to checkout the file system type ls in the terminal. Minecraft Java requires at least 4gb of ram to run!
 to Format the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems/.
