@@ -1,10 +1,10 @@
 #!/bin/bash
 echo "Would you like to install all the software for MinecraftSever 1.17?"
-read -p "Continue (y/n)?" choice
-case "$choice" in 
-  y|Y ) echo "yes";;
-  n|N ) echo "no";;
-  * ) echo "invalid";;
+echo "Do you wish to install this program?"
+select yn in "Yes" "No"
+case $yn in
+    Yes ) make install;;
+    No ) exit;;
 esac
 cd ~
 mkdir MinecraftServer
