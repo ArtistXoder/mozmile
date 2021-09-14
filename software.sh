@@ -6,8 +6,6 @@ case "$choice" in
   n|N ) echo "no";;
   * ) echo "invalid";;
 esac
-sudo apt-get update
-sudo apt-get upgrade
 cd ~
 mkdir MinecraftServer
 cd MinecraftServer
