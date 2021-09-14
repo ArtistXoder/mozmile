@@ -11,9 +11,11 @@ git clone https://github.com/ArtistXoder/MinecraftServer.git
 added this to the shell script to easily start the Minecraft Java Server
 
 #!/bin/bash
+
 java -Xmx2500M -Xms2500M -jar server.jar nogui
 
 6) finally type chmod +x run.sh
+
 7) bash run.sh
 
 Last if you need to find the folder to checkout the file system type ls in the terminal. Minecraft Java requires at least 4gb of ram to run!
