@@ -9,10 +9,11 @@
 ```3) than create a shell script called run.sh ```
 
 4) added this to the shell script to easily start the Minecraft Java Server
+  ```sudo nano run.sh```
+   
+   ```#!/bin/bash```
 
-   #!/bin/bash
-
-   java -Xmx2500M -Xms2500M -jar server.jar nogui
+   ```java -Xmx2500M -Xms2500M -jar server.jar nogui```
 
 5) finally type chmod +x run.sh
 6) bash run.sh
