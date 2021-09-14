@@ -1,5 +1,11 @@
 #!/bin/bash
 echo "Would you like to install all the software for MinecraftSever 1.17?"
+read -p "Continue (y/n)?" choice
+case "$choice" in 
+  y|Y ) echo "yes";;
+  n|N ) echo "no";;
+  * ) echo "invalid";;
+esac
 sudo apt-get update
 sudo apt-get upgrade
 cd ~
