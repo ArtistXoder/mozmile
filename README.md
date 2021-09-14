@@ -1,7 +1,7 @@
 # Downloading 
-**sudo apt-get install git
+**sudo apt-get install git**
 
-git clone https://github.com/ArtistXoder/MinecraftServer.git**
+git clone https://github.com/ArtistXoder/MinecraftServer.git
 
 # Directions Starting Minecraft Server 
 1) cd MinecraftServer
