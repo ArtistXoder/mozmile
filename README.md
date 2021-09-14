@@ -41,4 +41,4 @@ their privacy policy is here https://playit.gg/privacy
 it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you. Also it's free. 
 
 # List Of Software Installed 
-Java 16 Openjdk & Minecraft Server Software 1.17.1
+Java 16 OpenJDK & Minecraft Server Software 1.17.1
