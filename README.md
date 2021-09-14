@@ -1,12 +1,12 @@
 # Downloading 
 ```sudo apt-get install git```
 
-git clone https://github.com/ArtistXoder/MinecraftServer.git
+```git clone https://github.com/ArtistXoder/MinecraftServer.git```
 
 # Directions Starting Minecraft Server 
-1) cd MinecraftServer
-2) chmod +x software.sh
-3) than create a shell script called run.sh 
+```1) cd MinecraftServer```
+```2) chmod +x software.sh```
+```3) than create a shell script called run.sh ```
 
 4) added this to the shell script to easily start the Minecraft Java Server
 
