@@ -10,9 +10,9 @@ git clone https://github.com/ArtistXoder/MinecraftServer.git
 4) than create a shell script called run.sh 
 added this to the shell script to easily start the Minecraft Java Server
 
-  #!/bin/bash
+#!/bin/bash
 
-  java -Xmx2500M -Xms2500M -jar server.jar nogui
+java -Xmx2500M -Xms2500M -jar server.jar nogui
 
 6) finally type chmod +x run.sh
 
