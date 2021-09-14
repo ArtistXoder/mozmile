@@ -6,7 +6,6 @@ while true; do
         [Nn]* ) exit;;
         * ) echo "Please answer yes or no.";;
     esac
-done
 cd ~
 mkdir MinecraftServer
 cd MinecraftServer
