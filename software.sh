@@ -1,7 +1,22 @@
 #!/bin/bash
-  echo "Would you like to install all the software for MinecraftSever 1.17"
-  
-mkdir MinecraftServer
+while true
+do
+ read -r -p "Are You Sure? [Y/n] " input
+ 
+ case $input in
+     [yY][eE][sS]|[yY])
+ echo "Yes"
+ break
+ ;;
+     [nN][oO]|[nN])
+ echo "No"
+ break
+        ;;
+     *)
+ echo "Invalid input..."
+ ;;
+ esac
+done
 cd MinecraftServer
 wget https://github.com/AdoptOpenJDK/openjdk16-binaries/releases/download/jdk16u-2021-05-08-12-45/OpenJDK16U-jdk_arm_linux_hotspot_2021-05-08-12-45.tar.gz
 tar xzf OpenJDK16U-jdk_arm_linux_hotspot_2021-05-08-12-45.tar.gz
