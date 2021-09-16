@@ -1,7 +1,7 @@
 #!/bin/bash
 while true
 do
- read -r -p "Are you sure want to install Minecraft Server Software 1.17.1  [Y/n] " input
+ read -r -p "Are you sure want to install Minecraft Server Software 1.17.1? [Y/n] " input
  
  case $input in
      [yY][eE][sS]|[yY])
