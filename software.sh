@@ -1,3 +1,4 @@
+````
 #!/bin/bash
 while true
 do
@@ -24,4 +25,4 @@ export PATH=$PWD/jdk-16.0.1+4/bin:$PATH
 java -version
 wget https://launcher.mojang.com/v1/objects/0a269b5f2c5b93b1712d0f5dc43b6182b9ab254e/server.jar
 java -Xmx2500M -Xms2500M -jar server.jar nogui
-exit 
+exit
