@@ -3,24 +3,6 @@
 
 ```git clone https://github.com/ArtistXoder/MinecraftServer.git```
 
-# Directions Starting Minecraft Server 
-```1) cd MinecraftServer```
-```2) chmod +x software.sh```
-```3) than create a shell script called run.sh ```
-
-4) added this to the shell script to easily start the Minecraft Java Server
-  ```sudo nano run.sh```
-   
-   ```#!/bin/bash```
-
-   ```java -Xmx2500M -Xms2500M -jar server.jar nogui```
-
-5) ```finally type chmod +x run.sh```
-6) ```bash run.sh```
-
-```Last if you need to find the folder to checkout the file system type ls in the terminal. Minecraft Java requires at least 4gb of ram to run!```
-```to Format the sd card use the Raspberry PI image tool you can find it here at the offical website https://www.raspberrypi.org/software/operating-systems```
-
 
 # Find IP Raspberry Pi 
 1) ```hostname -i```
@@ -35,6 +17,7 @@
 1) ```you have to accept the eula```
 2) ```type nano eula.txt```
 3) ```next turn type true```
+4) now type bash Reboot.sh
 
 # For Multiplayer Online 
 
