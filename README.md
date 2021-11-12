@@ -33,8 +33,8 @@
 
 # If doesn't work on boot don't worry 
 1) ```you have to accept the eula```
-2) ``type nano eula.txt```
-3) ``next turn type true```
+2) ```type nano eula.txt```
+3) ```next turn type true```
 
 # For Multiplayer Online 
 
