@@ -31,6 +31,12 @@
 1) ```cd MinecraftServer```
 2) ```export PATH=$PWD/jdk-16.0.1+4/bin:$PATH```
 
+# If doesn't work on boot don't worry 
+1) you have to accept the eula
+2) type nano eula.txt 
+3) next turn type true
+4) than do control alt exit 
+
 # For Multiplayer Online 
 ```here is the download links https://playit.gg/download```
 ```their privacy policy is here https://playit.gg/privacy```
