@@ -38,8 +38,9 @@
 4) ```than do control alt exit``
 
 # For Multiplayer Online 
-```here is the download links https://playit.gg/download```
-```their privacy policy is here https://playit.gg/privacy```
+
+1) ```here is the download links https://playit.gg/download```
+2) ```their privacy policy is here https://playit.gg/privacy```
 
 1) ```for the Raspberry pi the you go to download folder by going to terminal and typing cd downloads```
 2) ```than you type ./playit-armv7-0.4.3-rc2 if you get permission deined try chmod +x playit-armv7-0.4.3-rc2``` 
