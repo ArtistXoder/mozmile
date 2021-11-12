@@ -35,7 +35,6 @@
 1) ```you have to accept the eula```
 2) ``type nano eula.txt```
 3) ``next turn type true```
-4) ```than do control alt exit``
 
 # For Multiplayer Online 
 
