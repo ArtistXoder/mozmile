@@ -3,15 +3,10 @@
 1) ```sudo apt-get install git```
 2) ```git clone https://github.com/ArtistXoder/MinecraftServer.git```
 
-
 # Find IP Raspberry Pi 
 1) ```hostname -i```
 2) ```than connect with what ever terminal your using  the command ssh pi@yourip```
 3) ```Also if you get a warning that host key failed type ssh-keygen -R yourip```
-
-# If Java Doesn't Work After Reboot 
-1) ```cd MinecraftServer```
-2) ```export PATH=$PWD/jdk-16.0.1+4/bin:$PATH```
 
 # If doesn't work on boot don't worry 
 1) ```you have to accept the eula```
