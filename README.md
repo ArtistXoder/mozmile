@@ -30,4 +30,4 @@
 ```it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you. Also it's free.``` 
 
 # List Of Software Installed 
-   1) ```Java 16 OpenJDK & Minecraft Server Software 1.17.1```
+   1) ```Java 17 OpenJDK & Minecraft Server Software 1.19```
