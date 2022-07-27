@@ -16,7 +16,8 @@
 
 # For Multiplayer Online 
 
-1) ```https://www.noip.com/support/knowledgebase/install-ip-duc-onto-raspberry-pi/'''
+1) https://www.noip.com/support/knowledgebase/install-ip-duc-onto-raspberry-pi/
+
 # List Of Software Installed 
    1) ```Java 17 OpenJDK & Minecraft Server Software 1.19```
    
