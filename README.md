@@ -33,3 +33,4 @@
 3) ```This is one of my project's I don't update much.```
 4) ```Make sure you case has good cooling. An I would recommend a fan to added to your Pi4 case. One more thing is to added heatsinks.```
 
+# Should be able to work on Pine64 boards / Orange Pi / Others
