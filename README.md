@@ -16,10 +16,7 @@
 
 # For Multiplayer Online 
 
-1) ```here is the download links https://playit.gg/download```
-2) ```their privacy policy is here https://playit.gg/privacy-policy```
-```it work like your sever connect to their sever so it's doesn't show your real IP but show only their IP they give you. Also it's free.``` 
-
+1) ```https://www.noip.com/support/knowledgebase/install-ip-duc-onto-raspberry-pi/'''
 # List Of Software Installed 
    1) ```Java 17 OpenJDK & Minecraft Server Software 1.19```
    
