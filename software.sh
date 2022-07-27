@@ -15,4 +15,4 @@ sudo apt-get update
 sudo apt install openjdk-17-jre-headless
 java -version
 wget https://launcher.mojang.com/v1/objects/e00c4052dac1d59a1188b2aa9d5a87113aaf1122/server.jar
-java -Xmx2500M -Xms2500M -jar server.jar nogui
+
