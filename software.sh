@@ -10,7 +10,7 @@ case "$input" in
 		;;
 esac
 
-cd MinecraftServer
+
 sudo apt-get update 
 sudo apt-get upgrade
 sudo apt install openjdk-17-jre-headless
