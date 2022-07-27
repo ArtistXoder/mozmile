@@ -27,4 +27,7 @@
 # List Of Software Installed 
    1) ```Java 17 OpenJDK & Minecraft Server Software 1.19```
    
-# Need at least 4GB to 8GB of Ram for Pi 4. Because of the recents updates 
+# Need at least 4GB to 8GB of Ram for Pi 4.
+1) ```Because Java an the an the latest Minecraft edition eats up alot of RAM an CPU.```
+2) ```I would highly recommend waiting on buy a Pi 4 till prices an supplies go up.```
+3) ```This is one of my project's I don't update much.```
