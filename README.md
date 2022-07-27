@@ -26,3 +26,5 @@
 
 # List Of Software Installed 
    1) ```Java 17 OpenJDK & Minecraft Server Software 1.19```
+   
+# Need at least 4GB to 8GB of Ram for Pi 4. Because of the recents updates 
