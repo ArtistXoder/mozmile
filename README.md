@@ -23,6 +23,9 @@
 # List Of Software Installed 
    1) ```Java 17 OpenJDK & Minecraft Server Software 1.19```
    
+# Using screen headless 
+```type screen than hit enter run the bash Reboot.sh. than you can just exit the terminal.```
+
 # Need at least 4GB to 8GB of Ram for Pi 4 or you could use a Pi 400.
 1) ```Because Java an the an the latest Minecraft edition eats up alot of RAM an CPU. You will also improve your performance's.```
 2) ```I would highly recommend waiting on buy a Pi 4 till prices an supplies go up.```
