@@ -31,4 +31,5 @@
 1) ```Because Java an the an the latest Minecraft edition eats up alot of RAM an CPU. You will also improve your performance's.```
 2) ```I would highly recommend waiting on buy a Pi 4 till prices an supplies go up.```
 3) ```This is one of my project's I don't update much.```
+4) ```Make sure you case has good cooling. An I would recommend a fan to added to your Pi4 case. One more thing is to added heatsinks.```
 
