@@ -16,7 +16,7 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt install openjdk-17-jre-headless
 java -version
-wget https://launcher.mojang.com/v1/objects/e00c4052dac1d59a1188b2aa9d5a87113aaf1122/server.jar
+wget https://piston-data.mojang.com/v1/objects/8399e1211e95faa421c1507b322dbeae86d604df/server.jar
 sudo aptr-get isntall screen 
 cd 
 mkdir noip
