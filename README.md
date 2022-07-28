@@ -16,7 +16,7 @@
 
 # For Multiplayer Online 
 
-1) ```create a NoIP account. if you didn't create an account than you can run in the terminal sudo /usr/local/bin/noip2termainl``` 
+1) ```create a NoIP account. if you didn't create an account than you should create one than. you can run in the terminal sudo /usr/local/bin/noip2termainl``` 
 2) ```to make sure everything is working right sudo noip2 ­-S (Capital “S”)```
 3) ```Don't forget to use DMZ in your router. An also make sure port forwarding is setup these are the port number to open 25565 tcp```
 
